@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="boss.cpp" />
+    <ClCompile Include="employee.cpp" />
+    <ClCompile Include="manager.cpp" />
     <ClCompile Include="source.cpp" />
+    <ClCompile Include="workerbase.cpp" />
+    <ClCompile Include="workernanager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boss.h" />
+    <ClInclude Include="employee.h" />
+    <ClInclude Include="manager.h" />
+    <ClInclude Include="workerbase.h" />
+    <ClInclude Include="workermanager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

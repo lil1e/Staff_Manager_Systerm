@@ -18,5 +18,37 @@
     <ClCompile Include="source.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="workernanager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="workerbase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="boss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="employee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="workermanager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="workerbase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
