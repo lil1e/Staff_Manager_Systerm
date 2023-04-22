@@ -1,0 +1,5 @@
+﻿  login.cpp
+  source.cpp
+C:\Users\86139\Desktop\systerm\Staff_Manager_Systerm\Staff_Manager_Systerm\source.cpp(1,1): warning C4828: 文件包含在偏移 0x9d7 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Staff_Manager_Systerm.vcxproj -> C:\Users\86139\Desktop\systerm\Staff_Manager_Systerm\Staff_Manager_Systerm\x64\Debug\Staff_Manager_Systerm.exe
